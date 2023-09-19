@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist",
+        "target": "es2022",
+        "lib": ["es2022", "esnext.disposable", "dom"],
+        "module": "CommonJS"
+    },
+}
