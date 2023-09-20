@@ -63,7 +63,7 @@ const isAvailableDBConnection = async () => {
     "Hello world!",
   ]);
   
-  console.log(res.rows[0].message);
+  console.info(res.rows[0].message);
   // ...
   // before out of scope, resource will be disposed by function of [Symbol.asyncDispose]
 };
