@@ -40,6 +40,6 @@ npx ts-node pg-asyncDispose-class.example.ts
 
 # References
 
-[ECMAScript:proposal-explicit-resource-management](https://github.com/tc39/proposal-explicit-resource-management#status)
-[Announcing TypeScript 5.2: using Declarations and Explicit Resource Management](https://devblogs.microsoft.com/typescript/announcing-typescript-5-2/#using-declarations-and-explicit-resource-management)
-[Resource management in TypeScript with the using keyword](https://blog.logrocket.com/resource-management-typescript-using-keyword/)
+- [ECMAScript:proposal-explicit-resource-management](https://github.com/tc39/proposal-explicit-resource-management#status)
+- [Announcing TypeScript 5.2: using Declarations and Explicit Resource Management](https://devblogs.microsoft.com/typescript/announcing-typescript-5-2/#using-declarations-and-explicit-resource-management)
+- [Resource management in TypeScript with the using keyword](https://blog.logrocket.com/resource-management-typescript-using-keyword/)
